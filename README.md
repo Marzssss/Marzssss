@@ -64,27 +64,7 @@ Right now I’m experimenting with tools that connect **offline life + digital r
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=Marzssss&show_icons=true&theme=tokyonight&hide_border=true" 
-       alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img 
-       src="https://streak-stats.demolab.com?user=Marzssss&theme=tokyonight&hide_border=true" 
-       alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marzssss&layout=compact&theme=tokyonight&hide_border=true" 
-       alt="Top languages" />
-</p>
-
----
 
 ## 🔭 What I’m Working On
 
