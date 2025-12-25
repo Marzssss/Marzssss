@@ -18,11 +18,11 @@ Right now I’m experimenting with tools that connect **offline life + digital r
 ## 🌐 Socials
 
 <p>
-  <a href="https://www.instagram.com/marauri__" target="_blank">
+  <a href="https://www.instagram.com/marzsss" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://www.threads.net/@marauri__" target="_blank">
+  <a href="https://www.threads.net/@marzsss" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
   </a>
 
